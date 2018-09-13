@@ -10,6 +10,8 @@ Each line in QHG_corpus.txt consists of a pair of (news article, question headli
 <news articles>\t\t<question headline>
 ```
 ### File
+
+The dataset is collected from [ByteDance](https://www.toutiao.com) (a popular news portal in China).
 ```
 We release the original news collections with 34,3696 news articles, and the dataset used in the CIKM  
 2018 paper can be built by using the corresponding pre-process steps. 
