@@ -2,9 +2,19 @@
 Dataset for CIKM 2018 long paper "Question Headline Generation for News Articles"
 
 ## Description
+
+The dataset can be downloaded at [link](https://drive.google.com/open?id=1IdmvrWvXPkP5e20-7ol2NlxOZiMHfFAA) (unpacks to 602M).
+Each line in QHG_corpus.txt consists of a pair of (news article, question headline). Each line is tab-delimited (two tabs) with the following format:
+
 ```
-The dataset will be released soon.
+<news articles>\t\t<question headline>
 ```
+### File
+```
+We release the original news collections with 34,3696 news articles, and the dataset used in the CIKM  
+2018 paper can be built by using the corresponding pre-process steps. 
+```
+
 
 ## Citation
 ```
